@@ -25,7 +25,7 @@ SeqList findnextfreeLoc(SeqList sl) {
 }
 
 void rightShift(int size, int j) {
-	for(int i = j; i < j + size; j++)
+	for(int i = j + size - 1; i > j - 1; i--)
 		st[i + 1] = st[i];
 }
 
@@ -55,11 +55,10 @@ SeqList insert(Job j , SeqList sl)
 	if(sl.size > 0) {
 		int i = 0;
 		for(i = sl.head; i < sl.head + sl.size; i++) {
-			if(compare(st[i].ele, j)) {
+			if(compare(st[i].ele, j) == GREATER) {
 				rightShift(sl.size, i);
 				st[i].ele = j;
 				st[i].next = i + 1;
-				printf("HEAD1\n");
 				break;
 			}
 		}
@@ -67,13 +66,11 @@ SeqList insert(Job j , SeqList sl)
 			st[i].ele = j;
 			st[i].next = -1;
 			st[i - 1].next = i;
-			printf("HEAD2\n");
 		}
 	}
 	else{
 		sl = findnextfreeLoc(sl);
 		st[sl.head].ele = j;
-		printf("HEAD3\n");
 	}
 	sl.size++;
 	nextfreeloc++;
