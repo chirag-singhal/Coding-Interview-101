@@ -1,5 +1,5 @@
-#include "node.c"
+#include "linkedlist.h"
 
-extern void push(int x, struct linkedList* head);
+extern void push(struct linkedList* head, int x);
 
-extern int pop(struct linkedList* head);
+extern NODE* pop(struct linkedList* head);

@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "linkedlist.h"
 
 void insertFirst(struct linkedList * head, int ele){
@@ -29,13 +30,13 @@ NODE* deleteFirst(struct linkedList * head) {
 //display the list
 void printList(struct linkedList * head){
 	NODE* ptr = head->first;
-	printf("\n[ ");
+	printf("[ ");
 	//start from the beginning
 	while(ptr != NULL){
 		printf("%d, ", ptr->element);
 		ptr = ptr->next;
 	}
-	printf(" ]");
+	printf(" ]\n\n");
 }
 
 //search element = ele in linked list
