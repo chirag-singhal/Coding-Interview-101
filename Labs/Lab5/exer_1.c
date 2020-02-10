@@ -22,6 +22,8 @@ struct records {
 
 typedef struct records* RECORDS;
 
+int *endmem;
+
 RECORDS read_cards(RECORDS re, int N, FILE* f) {
 	int size = re -> size;
 	int capacity = re -> capacity;
@@ -76,18 +78,18 @@ void insertInOrder(CREDIT_CARDS cc, long int i) {
 	cc[j + 1] = key;
 }
 
-long long int insertionSort(CREDIT_CARDS cc, long int size, int* startmem) {
+void insertionSort(CREDIT_CARDS cc, long int size) {
 		if(size == 1){
-			int endmem;;
-			return startmem - &endmem;
+			int end;
+			endmem = &end;
+			return;
 		}
-		long long int mem = insertionSort(cc, size - 1, startmem);
+		insertionSort(cc, size - 1);
 		insertInOrder(cc, size - 1);
-		return mem;
 }
 
 int main() {
-	
+
 	char filename[10] = "10000";
 	char file[5][10] = {"10", "100", "1000", "10000", "100000"};
 	FILE* f = fopen(filename, "r");
@@ -125,14 +127,13 @@ int main() {
 		r -> size = 0;
 		r -> capacity = 1000;
 		r = read_cards(r, atoi(file[i]), fr);
-		int startmem;
 		gettimeofday(&start, NULL);
-		long long int stackmem = insertionSort(r -> credit_cards, r -> size, &startmem);
+		int startmem;
+		insertionSort(r -> credit_cards, r -> size);
 		gettimeofday(&end, NULL);
 		time_elapsed = (end.tv_sec - start.tv_sec) * 1000;
 		time_elapsed += (end.tv_usec - start.tv_usec) / 1000;
-		// printf("%ld\n", r -> size);
-		fprintf(foutsort, "%ld, %lfms, %lld\n", r -> size, time_elapsed, stackmem);
+		fprintf(foutsort, "%ld, %lfms, %lld\n", r -> size, time_elapsed, (long long )(&startmem - endmem) * 4);
 		fclose(fr);
 	}
 	fclose(f);
