@@ -46,7 +46,7 @@ int main() {
 			mergeSort(Ls, num[i]);	
 			gettimeofday(&end,NULL);
 			double time_taken = (end.tv_sec - start.tv_sec) * 1000;
-			time_taken = ((double)end.tv_usec - start.tv_usec) / 1000;
+			time_taken += ((double)end.tv_usec - start.tv_usec) / 1000;
 			printf("Time taken for sorting %d elements = %lfms\n", num[i], time_taken);
 			printf("Space used for sorting %d elements = %ld\n", num[i], (long)&startmem - (long)endmem);	
 		}		
