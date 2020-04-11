@@ -1,8 +1,10 @@
+#include <bits/stdc++.h>
+
 class MinStack {
 public:
     /** initialize your data structure here. */
-    stack<int> s;
-    stack<int> min;
+    std::stack<int> s;
+    std::stack<int> min;
     int size;
     
     MinStack() {
