@@ -7,7 +7,7 @@ public:
             return a;
         return b;
     }
-    int minPathSum(std::vector<vector<int>>& grid) {
+    int minPathSum(std::vector<std::vector<int>>& grid) {
         int cost[grid.size()][grid[0].size()];
         for(int i = 0; i < grid.size(); i++) {
             for(int j = 0; j < grid[0].size(); j++) {
