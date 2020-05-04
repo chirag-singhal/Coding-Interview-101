@@ -1,4 +1,4 @@
-public class Solution {
+public class Foobar2_1 {
     public static void sort(int[] l) {
         int arr[] = new int[10];
         for(int i = 0; i < l.length; i++) 
@@ -13,7 +13,7 @@ public class Solution {
     }
     public static int solution(int[] l) {
         // Your code here
-        Solution.sort(l);
+        Foobar2_1.sort(l);
         int ans = 0;
         int sum = 0;
         for(int i = 0; i < l.length; i++)
@@ -97,6 +97,6 @@ public class Solution {
         int arr[] = new int[6];
         System.out.println("Hello, World"); 
         arr[0] = 3; arr[1] = 1; arr[2] = 4; arr[3] = 1; arr[4] = 5; arr[5] = 9;
-        Solution.solution(arr);
+        Foobar2_1.solution(arr);
     }
 }
