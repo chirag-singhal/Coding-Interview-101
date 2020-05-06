@@ -13,7 +13,7 @@ std::string convertToTitle(int A) {
             c = 'A' + r2 - 1;
             A = A / 26;
         }
-        string s1(1, c);
+        std::string s1(1, c);
         s = s1 + s;
     }
     return s;
