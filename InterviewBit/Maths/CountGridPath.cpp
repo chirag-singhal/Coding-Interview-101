@@ -2,7 +2,7 @@
 
 int uniquePaths(int A, int B) {
     std::vector<int> v(B, 0);
-    vector<vector<int>> dp(A, v);
+    std::vector<std::vector<int>> dp(A, v);
     for(int i = 0; i < A; i++)
         dp[i][0] = 1;
     for(int i = 0; i < B; i++)
