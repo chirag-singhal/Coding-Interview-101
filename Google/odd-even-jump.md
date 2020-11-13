@@ -1,6 +1,6 @@
 ## Odd Even Jump
 
-### Porblem Link - https://leetcode.com/problems/odd-even-jump/
+### Problem Link - https://leetcode.com/problems/odd-even-jump/
 
 ---
 

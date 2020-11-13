@@ -1,6 +1,6 @@
 ## Fruit Into Baskets
 
-### Porblem Link - https://leetcode.com/problems/fruit-into-baskets/
+### Problem Link - https://leetcode.com/problems/fruit-into-baskets/
 
 ---
 

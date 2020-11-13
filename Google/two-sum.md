@@ -1,6 +1,6 @@
 ## Two Sum
 
-### Porblem Link - https://leetcode.com/problems/two-sum/
+### Problem Link - https://leetcode.com/problems/two-sum/
 
 ---
 

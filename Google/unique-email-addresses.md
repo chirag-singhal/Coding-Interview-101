@@ -1,6 +1,6 @@
 ## Unique Email Addresses
 
-### Porblem Link - https://leetcode.com/problems/unique-email-addresses/
+### Problem Link - https://leetcode.com/problems/unique-email-addresses/
 
 ---
 
