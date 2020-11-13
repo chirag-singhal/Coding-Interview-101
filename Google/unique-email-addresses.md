@@ -6,6 +6,8 @@
 
 ### Solution
 
+```cpp
+
     class Solution {
     public:
         int numUniqueEmails(vector<string>& emails) {
@@ -44,3 +46,4 @@
             return ans;
         }
     };
+```

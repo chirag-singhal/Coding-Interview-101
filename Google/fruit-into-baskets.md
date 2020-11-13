@@ -6,6 +6,8 @@
 
 ### Solution
 
+```cpp
+
     class Solution {
         public:
             int totalFruit(vector<int>& tree) {
@@ -38,3 +40,4 @@
                 return ans;
             }
         };
+```

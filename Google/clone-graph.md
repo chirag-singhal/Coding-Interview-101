@@ -6,6 +6,8 @@
 
 ### Solution
 
+```cpp
+
     /*
     // Definition for a Node.
     class Node {
@@ -77,3 +79,4 @@
             return ans;
         }
     };
+```

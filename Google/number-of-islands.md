@@ -6,6 +6,8 @@
 
 ### Solution
 
+```cpp
+
     class Solution {
         public:
             void travel_island(vector<vector<char>>& grid, int r, int c,vector<vector<int>>& visited) {
@@ -41,3 +43,4 @@
                 return count;
             }
         };
+```
