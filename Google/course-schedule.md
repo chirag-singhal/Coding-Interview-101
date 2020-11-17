@@ -1,4 +1,4 @@
-## Course Schedule
+## [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 ### Problem Link - https://leetcode.com/problems/course-schedule/
 
