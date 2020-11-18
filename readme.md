@@ -3,13 +3,14 @@
 Solutions to LeetCode problems filtered with companies, topics and difficulty. (Work In Progress)
 
 ## Companies 
- * [google](Google/readme.md)
+ * [Google](Google/readme.md)
+ * [Adobe](Adobe/readme.md)
 
 # Contribute
 
 ## Correct a solution
 
-Found a mistake? Please open an issue on GitHub having the format "[CORRECT] LC 200 Two Sum".
+Found a mistake? Please open an issue on GitHub having the format "[CORRECT] LC 1 Two Sum".
 
 ## Contribute a new solution
 
