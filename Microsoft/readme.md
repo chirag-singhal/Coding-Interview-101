@@ -1,4 +1,4 @@
-# Facebook
+# Microsoft
 
 ## Easy
 * [unique-email-addresses](../Google/unique-email-addresses.md)
@@ -7,7 +7,6 @@
 
 
 ## Medium
-* [fruit-into-baskets](../Google/fruit-into-baskets.md)
 * [number-of-islands](../Google/number-of-islands.md)
 * [clone-graph](../Google/clone-graph.md)
 * [word-ladder](../Google/word-ladder.md)

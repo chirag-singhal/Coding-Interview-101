@@ -3,7 +3,8 @@
 ## Easy
 * [unique-email-addresses](unique-email-addresses.md)
 * [two-sum](two-sum.md)
-
+* [count-and-say](count-and-say.md)
+  
 
 ## Medium
 * [fruit-into-baskets](fruit-into-baskets.md)
