@@ -7,6 +7,7 @@ Solutions to LeetCode problems filtered with companies, topics and difficulty. (
  * [Adobe](Adobe/readme.md)
  * [Facebook](Facebook/readme.md)
  * [Amazon](Amazon/readme.md)
+ * [Microsoft](Microsoft/readme.md)
 
 # Contribute
 
