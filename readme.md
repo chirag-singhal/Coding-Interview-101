@@ -5,6 +5,8 @@ Solutions to LeetCode problems filtered with companies, topics and difficulty. (
 ## Companies 
  * [Google](Google/readme.md)
  * [Adobe](Adobe/readme.md)
+ * [Facebook](Facebook/readme.md)
+ * [Amazon](Amazon/readme.md)
 
 # Contribute
 
