@@ -7,6 +7,7 @@
 
 ## Medium
 * [number-of-islands](../Google/number-of-islands.md)
+* [lru-cache](lru-cache.md)
 
 
 ## Hard
