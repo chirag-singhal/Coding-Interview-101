@@ -7,6 +7,7 @@
 * [path-sum](path-sum.md)
 * [symmetric-tree](../Facebook/symmetric-tree.md)
 * [balanced-binary-tree](../Microsoft/balanced-binary-tree.md)
+* [valid-palindrome](valid-palindrome.md)
 
 
 ## Medium
