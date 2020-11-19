@@ -6,6 +6,7 @@
 * [count-and-say](../Google/count-and-say.md)
 * [path-sum](../Amazon/path-sum.md)
 * [binary-tree-level-order-traversal-ii](../Microsoft/binary-tree-level-order-traversal-ii.md)
+* [symmetric-tree](../Facebook/symmetric-tree.md)
 
 
 ## Medium

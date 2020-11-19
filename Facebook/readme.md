@@ -5,6 +5,7 @@
 * [two-sum](../Google/two-sum.md)
 * [count-and-say](../Google/count-and-say.md)
 * [binary-tree-level-order-traversal-ii](../Microsoft/binary-tree-level-order-traversal-ii.md)
+* [symmetric-tree](symmetric-tree.md)
 
 
 ## Medium
