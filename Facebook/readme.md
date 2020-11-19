@@ -7,7 +7,7 @@
 * [binary-tree-level-order-traversal-ii](../Microsoft/binary-tree-level-order-traversal-ii.md)
 * [symmetric-tree](symmetric-tree.md)
 * [balanced-binary-tree](../Microsoft/balanced-binary-tree.md)
-* [valid-palindrome](../Adobe/valid-palindrome.md)
+* [valid-palindrome](../Amazon/valid-palindrome.md)
 
 
 ## Medium
