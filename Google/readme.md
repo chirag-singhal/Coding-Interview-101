@@ -5,6 +5,7 @@
 * [two-sum](two-sum.md)
 * [count-and-say](count-and-say.md)
 * [symmetric-tree](../Facebook/symmetric-tree.md)
+* [balanced-binary-tree](../Microsoft/balanced-binary-tree.md)
   
 
 ## Medium

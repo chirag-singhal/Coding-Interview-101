@@ -6,6 +6,7 @@
 * [count-and-say](../Google/count-and-say.md)
 * [path-sum](path-sum.md)
 * [symmetric-tree](../Facebook/symmetric-tree.md)
+* [balanced-binary-tree](../Microsoft/balanced-binary-tree.md)
 
 
 ## Medium
