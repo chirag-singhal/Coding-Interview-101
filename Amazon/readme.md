@@ -8,6 +8,7 @@
 * [symmetric-tree](../Facebook/symmetric-tree.md)
 * [balanced-binary-tree](../Microsoft/balanced-binary-tree.md)
 * [valid-palindrome](valid-palindrome.md)
+* [pascals-triangle](pascals-triangle.md)
 
 
 ## Medium
