@@ -19,6 +19,7 @@
 * [word-ladder](../Google/word-ladder.md)
 * [course-schedule](../Google/course-schedule.md)
 * [lru-cache](../Google/lru-cache.md)
+* [permutations](../Google/permutations.md)
 
 
 ## Hard

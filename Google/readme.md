@@ -18,6 +18,7 @@
 * [word-ladder](word-ladder.md)
 * [course-schedule](course-schedule.md)
 * [lru-cache](lru-cache.md)
+* [permutations](permutations.md)
 
 
 ## Hard

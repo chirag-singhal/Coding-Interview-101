@@ -13,6 +13,7 @@
 ## Medium
 * [number-of-islands](../Google/number-of-islands.md)
 * [lru-cache](../Google/lru-cache.md)
+* [permutations](../Google/permutations.md)
 
 
 ## Hard
