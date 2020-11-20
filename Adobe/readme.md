@@ -7,6 +7,7 @@
 * [path-sum](../Amazon/path-sum.md)
 * [binary-tree-level-order-traversal-ii](../Microsoft/binary-tree-level-order-traversal-ii.md)
 * [symmetric-tree](../Facebook/symmetric-tree.md)
+* [pascals-triangle-ii](../Amazon/pascals-triangle-ii.md)
 
 
 ## Medium

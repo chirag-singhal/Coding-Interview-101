@@ -9,6 +9,7 @@
 * [balanced-binary-tree](../Microsoft/balanced-binary-tree.md)
 * [valid-palindrome](valid-palindrome.md)
 * [pascals-triangle](pascals-triangle.md)
+* [pascals-triangle-ii](pascals-triangle-ii.md)
 
 
 ## Medium
