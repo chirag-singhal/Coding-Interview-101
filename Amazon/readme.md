@@ -20,6 +20,7 @@
 * [course-schedule](../Google/course-schedule.md)
 * [lru-cache](../Google/lru-cache.md)
 * [permutations](../Google/permutations.md)
+* [permutations-ii](../Facebook/permutations-ii.md)
 
 
 ## Hard
