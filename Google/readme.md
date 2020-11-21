@@ -19,6 +19,7 @@
 * [course-schedule](course-schedule.md)
 * [lru-cache](lru-cache.md)
 * [permutations](permutations.md)
+* [string-to-integer](../Adobe/string-to-integer.md)
 
 
 ## Hard
