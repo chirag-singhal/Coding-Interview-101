@@ -20,6 +20,7 @@
 * [lru-cache](lru-cache.md)
 * [permutations](permutations.md)
 * [string-to-integer](../Adobe/string-to-integer.md)
+* [powx-n](../Adobe/powx-n.md)
 
 
 ## Hard

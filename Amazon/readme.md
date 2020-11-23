@@ -22,6 +22,7 @@
 * [permutations](../Google/permutations.md)
 * [permutations-ii](../Facebook/permutations-ii.md)
 * [string-to-integer](../Adobe/string-to-integer.md)
+* [powx-n](../Adobe/powx-n.md)
 
 
 ## Hard
