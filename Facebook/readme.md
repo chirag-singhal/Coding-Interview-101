@@ -22,6 +22,7 @@
 * [permutations-ii](permutations-ii.md)
 * [string-to-integer](../Adobe/string-to-integer.md)
 * [powx-n](../Adobe/powx-n.md)
+* [valid-sudoku](../Amazon/valid-sudoku.md)
 
 
 ## Hard
