@@ -22,6 +22,7 @@
 * [string-to-integer](../Adobe/string-to-integer.md)
 * [powx-n](../Adobe/powx-n.md)
 * [valid-sudoku](../Amazon/valid-sudoku.md)
+* [divide-two-integers](../Facebook/divide-two-integers.md)
 
 
 ## Hard

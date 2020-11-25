@@ -17,6 +17,7 @@
 * [permutations-ii](../Facebook/permutations-ii.md)
 * [string-to-integer](string-to-integer.md)
 * [powx-n](powx-n.md)
+* [divide-two-integers](../Facebook/divide-two-integers.md)
 
 ## Hard
 
