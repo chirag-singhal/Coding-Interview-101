@@ -9,6 +9,7 @@
 * [balanced-binary-tree](../Microsoft/balanced-binary-tree.md)
 * [valid-palindrome](../Amazon/valid-palindrome.md)
 * [pascals-triangle](../Amazon/pascals-triangle.md)
+* [third-maximum-number](third-maximum-number.md)
 
 
 ## Medium
