@@ -9,6 +9,7 @@
 * [valid-palindrome](../Amazon/valid-palindrome.md)
 * [pascals-triangle](../Amazon/pascals-triangle.md)
 * [pascals-triangle-ii](../Amazon/pascals-triangle-ii.md)
+* [buddy-strings](buddy-strings.md)
   
 
 ## Medium
