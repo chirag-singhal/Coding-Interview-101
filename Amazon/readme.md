@@ -25,6 +25,7 @@
 * [powx-n](../Adobe/powx-n.md)
 * [valid-sudoku](valid-sudoku.md)
 * [divide-two-integers](../Facebook/divide-two-integers.md)
+* [decode-ways](../Facebook/decode-ways.md)
 
 
 ## Hard

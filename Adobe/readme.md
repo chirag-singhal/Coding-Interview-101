@@ -18,6 +18,7 @@
 * [string-to-integer](string-to-integer.md)
 * [powx-n](powx-n.md)
 * [divide-two-integers](../Facebook/divide-two-integers.md)
+* [decode-ways](../Facebook/decode-ways.md)
 
 ## Hard
 

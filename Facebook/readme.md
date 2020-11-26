@@ -24,6 +24,7 @@
 * [powx-n](../Adobe/powx-n.md)
 * [valid-sudoku](../Amazon/valid-sudoku.md)
 * [divide-two-integers](divide-two-integers.md)
+* [decode-ways](decode-ways.md)
 
 
 ## Hard
