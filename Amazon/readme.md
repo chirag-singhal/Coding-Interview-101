@@ -10,6 +10,7 @@
 * [valid-palindrome](valid-palindrome.md)
 * [pascals-triangle](pascals-triangle.md)
 * [pascals-triangle-ii](pascals-triangle-ii.md)
+* [perfect-number](perfect-number.md)
 
 
 ## Medium
