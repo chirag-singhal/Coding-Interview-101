@@ -11,6 +11,7 @@
 * [pascals-triangle](pascals-triangle.md)
 * [pascals-triangle-ii](pascals-triangle-ii.md)
 * [perfect-number](perfect-number.md)
+* [max-consecutive-ones](max-consecutive-ones.md)
 
 
 ## Medium
