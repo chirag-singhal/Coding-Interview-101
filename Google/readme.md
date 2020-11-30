@@ -15,7 +15,6 @@
 * [reverse-bits](../Amazon/reverse-bits.md)
 * [license-key-formatting](../Amazon/license-key-formatting.md)
 * [find-pivot-index](../Microsoft/find-pivot-index.md)
-* [max-increase-to-keep-city-skyline](../Adobe/max-increase-to-keep-city-skyline.md)
   
 
 ## Medium
@@ -31,6 +30,7 @@
 * [valid-sudoku](../Amazon/valid-sudoku.md)
 * [divide-two-integers](../Facebook/divide-two-integers.md)
 * [decode-ways](../Facebook/decode-ways.md)
+* [max-increase-to-keep-city-skyline](../Adobe/max-increase-to-keep-city-skyline.md)
 
 
 ## Hard
