@@ -15,6 +15,7 @@
 * [reverse-bits](reverse-bits.md)
 * [license-key-formatting](license-key-formatting.md)
 * [find-pivot-index](../Microsoft/find-pivot-index.md)
+* [max-increase-to-keep-city-skyline](../Adobe/max-increase-to-keep-city-skyline.md)
 
 
 ## Medium

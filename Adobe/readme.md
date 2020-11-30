@@ -8,6 +8,7 @@
 * [binary-tree-level-order-traversal-ii](../Microsoft/binary-tree-level-order-traversal-ii.md)
 * [symmetric-tree](../Facebook/symmetric-tree.md)
 * [pascals-triangle-ii](../Amazon/pascals-triangle-ii.md)
+* [max-increase-to-keep-city-skyline](max-increase-to-keep-city-skyline.md)
 
 
 ## Medium
