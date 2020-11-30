@@ -13,6 +13,7 @@
 * [third-maximum-number](../Facebook/third-maximum-number.md)
 * [excel-sheet-column-title](excel-sheet-column-title.md)
 * [rotate-string](rotate-string.md)
+* [find-pivot-index](find-pivot-index.md)
 
 
 ## Medium

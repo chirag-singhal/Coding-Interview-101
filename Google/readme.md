@@ -14,6 +14,7 @@
 * [valid-mountain-array](valid-mountain-array.md)
 * [reverse-bits](../Amazon/reverse-bits.md)
 * [license-key-formatting](../Amazon/license-key-formatting.md)
+* [find-pivot-index](../Microsoft/find-pivot-index.md)
   
 
 ## Medium
