@@ -13,6 +13,7 @@
 * [perfect-number](perfect-number.md)
 * [max-consecutive-ones](max-consecutive-ones.md)
 * [reverse-bits](reverse-bits.md)
+* [license-key-formatting](license-key-formatting.md)
 
 
 ## Medium

@@ -13,6 +13,7 @@
 * [third-maximum-number](../Facebook/third-maximum-number.md)
 * [valid-mountain-array](valid-mountain-array.md)
 * [reverse-bits](../Amazon/reverse-bits.md)
+* [license-key-formatting](../Amazon/license-key-formatting.md)
   
 
 ## Medium
