@@ -12,6 +12,7 @@
 * [pascals-triangle](../Amazon/pascals-triangle.md)
 * [third-maximum-number](../Facebook/third-maximum-number.md)
 * [excel-sheet-column-title](excel-sheet-column-title.md)
+* [rotate-string](rotate-string.md)
 
 
 ## Medium
