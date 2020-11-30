@@ -33,6 +33,7 @@
 * [decode-ways](../Facebook/decode-ways.md)
 * [max-increase-to-keep-city-skyline](../Adobe/max-increase-to-keep-city-skyline.md)
 * [maximum-binary-tree](maximum-binary-tree.md)
+* [encode-and-decode-tiny-url](../Google/encode-and-decode-tiny-url.md)
 
 
 ## Hard
