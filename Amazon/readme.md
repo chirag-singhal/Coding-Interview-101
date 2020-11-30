@@ -12,6 +12,7 @@
 * [pascals-triangle-ii](pascals-triangle-ii.md)
 * [perfect-number](perfect-number.md)
 * [max-consecutive-ones](max-consecutive-ones.md)
+* [reverse-bits](reverse-bits.md)
 
 
 ## Medium

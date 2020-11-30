@@ -12,6 +12,7 @@
 * [buddy-strings](buddy-strings.md)
 * [third-maximum-number](../Facebook/third-maximum-number.md)
 * [valid-mountain-array](valid-mountain-array.md)
+* [reverse-bits](../Amazon/reverse-bits.md)
   
 
 ## Medium
