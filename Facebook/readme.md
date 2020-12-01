@@ -28,6 +28,7 @@
 * [valid-sudoku](../Amazon/valid-sudoku.md)
 * [divide-two-integers](divide-two-integers.md)
 * [decode-ways](decode-ways.md)
+* [max-area-of-island](../Adobe/max-area-of-island.md)
 
 
 ## Hard

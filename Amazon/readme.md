@@ -34,6 +34,7 @@
 * [max-increase-to-keep-city-skyline](../Adobe/max-increase-to-keep-city-skyline.md)
 * [maximum-binary-tree](maximum-binary-tree.md)
 * [encode-and-decode-tiny-url](../Google/encode-and-decode-tiny-url.md)
+* [max-area-of-island](../Adobe/max-area-of-island.md)
 
 
 ## Hard

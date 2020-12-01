@@ -21,6 +21,7 @@
 * [decode-ways](../Facebook/decode-ways.md)
 * [max-increase-to-keep-city-skyline](max-increase-to-keep-city-skyline.md)
 * [encode-and-decode-tiny-url](../Google/encode-and-decode-tiny-url.md)
+* [max-area-of-island](max-area-of-island.md)
 
 
 ## Hard
