@@ -1,6 +1,6 @@
 # Coding Interview 101
 
-Solutions to LeetCode problems filtered with companies, topics and difficulty. We aim to become one stop guide for acing the coding interviews (Work In Progress).
+Solutions to LeetCode problems filtered with companies, topics and difficulty. We aim to become one stop guide for acing the coding interviews (Work In Progress). Feel free to show your love by putting a :star: on this project.
 
 ## Companies 
  * [Google](Google/readme.md)
