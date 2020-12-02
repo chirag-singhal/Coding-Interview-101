@@ -30,6 +30,7 @@
 * [decode-ways](decode-ways.md)
 * [max-area-of-island](../Adobe/max-area-of-island.md)
 * [reverse-words-in-a-string](reverse-words-in-a-string.md)
+* [valid-parenthesis-string](../Adobe/valid-parenthesis-string.md)
 
 
 ## Hard
