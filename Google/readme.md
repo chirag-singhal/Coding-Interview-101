@@ -34,6 +34,7 @@
 * [encode-and-decode-tiny-url](encode-and-decode-tiny-url.md)
 * [max-area-of-island](../Adobe/max-area-of-island.md)
 * [valid-parenthesis-string](../Adobe/valid-parenthesis-string.md)
+* [hand-of-straights](hand-of-straights.md)
 
 
 ## Hard
