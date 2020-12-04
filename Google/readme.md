@@ -36,6 +36,7 @@
 * [valid-parenthesis-string](../Adobe/valid-parenthesis-string.md)
 * [hand-of-straights](hand-of-straights.md)
 * [validate-ip-address](../Google/validate-ip-address.md)
+* [nth-digit](nth-digit.md)
 
 
 ## Hard
