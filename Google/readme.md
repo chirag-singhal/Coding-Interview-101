@@ -37,6 +37,7 @@
 * [hand-of-straights](hand-of-straights.md)
 * [validate-ip-address](../Google/validate-ip-address.md)
 * [nth-digit](nth-digit.md)
+* [find-and-replace-in-string](find-and-replace-in-string.md)
 
 
 ## Hard
