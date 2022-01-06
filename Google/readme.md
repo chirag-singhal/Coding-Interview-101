@@ -16,6 +16,7 @@
 * [license-key-formatting](../Amazon/license-key-formatting.md)
 * [find-pivot-index](../Microsoft/find-pivot-index.md)
 * [isomorphic-strings](./isomorphic-strings.md)
+* [toeplitz-matrix](./toeplitz-matrix.md)
   
 
 ## Medium
