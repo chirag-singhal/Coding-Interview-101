@@ -15,6 +15,7 @@
 * [rotate-string](rotate-string.md)
 * [find-pivot-index](find-pivot-index.md)
 * [encode-and-decode-tiny-url](../Google/encode-and-decode-tiny-url.md)
+* [word-pattern](./word-pattern.md)
 
 
 ## Medium

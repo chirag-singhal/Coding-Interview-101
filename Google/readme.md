@@ -17,6 +17,7 @@
 * [find-pivot-index](../Microsoft/find-pivot-index.md)
 * [isomorphic-strings](./isomorphic-strings.md)
 * [toeplitz-matrix](./toeplitz-matrix.md)
+* [word-pattern](./word-pattern.md)
   
 
 ## Medium
