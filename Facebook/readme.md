@@ -32,6 +32,7 @@
 * [reverse-words-in-a-string](reverse-words-in-a-string.md)
 * [valid-parenthesis-string](../Adobe/valid-parenthesis-string.md)
 * [validate-ip-address](validate-ip-address.md)
+* [set-matrix-zeroes](./set-matrix-zeroes.md)
 
 
 ## Hard

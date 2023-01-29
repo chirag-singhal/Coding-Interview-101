@@ -41,6 +41,7 @@
 * [validate-ip-address](../Google/validate-ip-address.md)
 * [nth-digit](nth-digit.md)
 * [find-and-replace-in-string](find-and-replace-in-string.md)
+* [set-matrix-zeroes](../Facebook/set-matrix-zeroes.md)
 
 
 ## Hard
