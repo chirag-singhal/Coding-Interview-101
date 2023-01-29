@@ -40,6 +40,7 @@
 * [valid-parenthesis-string](../Adobe/valid-parenthesis-string.md)
 * [set-matrix-zeroes](../Facebook/set-matrix-zeroes.md)
 * [sort-colors](../Microsoft/sort-colors.md)
+* [maximum-subarray](../Adobe/maximum-subarray.md)
 
 
 ## Hard
