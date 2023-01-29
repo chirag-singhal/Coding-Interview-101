@@ -42,6 +42,7 @@
 * [nth-digit](nth-digit.md)
 * [find-and-replace-in-string](find-and-replace-in-string.md)
 * [set-matrix-zeroes](../Facebook/set-matrix-zeroes.md)
+* [sort-colors](../Microsoft/sort-colors.md)
 
 
 ## Hard

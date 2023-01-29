@@ -33,6 +33,7 @@
 * [valid-parenthesis-string](../Adobe/valid-parenthesis-string.md)
 * [validate-ip-address](validate-ip-address.md)
 * [set-matrix-zeroes](./set-matrix-zeroes.md)
+* [sort-colors](../Microsoft/sort-colors.md)
 
 
 ## Hard

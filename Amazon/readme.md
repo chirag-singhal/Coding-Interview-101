@@ -39,6 +39,7 @@
 * [reverse-words-in-a-string](../Facebook/reverse-words-in-a-string.md)
 * [valid-parenthesis-string](../Adobe/valid-parenthesis-string.md)
 * [set-matrix-zeroes](../Facebook/set-matrix-zeroes.md)
+* [sort-colors](../Microsoft/sort-colors.md)
 
 
 ## Hard

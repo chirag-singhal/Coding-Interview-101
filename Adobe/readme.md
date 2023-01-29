@@ -23,6 +23,7 @@
 * [encode-and-decode-tiny-url](../Google/encode-and-decode-tiny-url.md)
 * [max-area-of-island](max-area-of-island.md)
 * [valid-parenthesis-string](valid-parenthesis-string.md)
+* [sort-colors](../Microsoft/sort-colors.md)
 
 
 ## Hard
