@@ -35,6 +35,7 @@
 * [set-matrix-zeroes](./set-matrix-zeroes.md)
 * [sort-colors](../Microsoft/sort-colors.md)
 * [maximum-subarray](../Adobe/maximum-subarray.md)
+* [next-permutation](../Adobe/next-permutation.md)
 
 
 ## Hard

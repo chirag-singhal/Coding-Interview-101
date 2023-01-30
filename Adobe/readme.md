@@ -25,6 +25,7 @@
 * [valid-parenthesis-string](valid-parenthesis-string.md)
 * [sort-colors](../Microsoft/sort-colors.md)
 * [maximum-subarray](./maximum-subarray.md)
+* [next-permutation](./next-permutation.md)
 
 
 ## Hard

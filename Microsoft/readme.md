@@ -36,6 +36,7 @@
 * [set-matrix-zeroes](../Facebook/set-matrix-zeroes.md)
 * [sort-colors](./sort-colors.md)
 * [maximum-subarray](../Adobe/maximum-subarray.md)
+* [next-permutation](../Adobe/next-permutation.md)
 
 
 ## Hard
