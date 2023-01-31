@@ -15,7 +15,8 @@
 * [reverse-bits](reverse-bits.md)
 * [license-key-formatting](license-key-formatting.md)
 * [find-pivot-index](../Microsoft/find-pivot-index.md)
-* [word-pattern](./word-pattern.md)
+* [word-pattern](../Google/word-pattern.md)
+* [best-time-to-buy-and-sell-stock](../Adobe/best-time-to-buy-and-sell-stock.md)
 
 
 ## Medium

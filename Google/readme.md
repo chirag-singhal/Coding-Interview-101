@@ -18,7 +18,8 @@
 * [isomorphic-strings](./isomorphic-strings.md)
 * [toeplitz-matrix](./toeplitz-matrix.md)
 * [word-pattern](./word-pattern.md)
-  
+* [best-time-to-buy-and-sell-stock](../Adobe/best-time-to-buy-and-sell-stock.md)
+
 
 ## Medium
 * [fruit-into-baskets](fruit-into-baskets.md)

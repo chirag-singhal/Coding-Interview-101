@@ -15,7 +15,8 @@
 * [rotate-string](rotate-string.md)
 * [find-pivot-index](find-pivot-index.md)
 * [encode-and-decode-tiny-url](../Google/encode-and-decode-tiny-url.md)
-* [word-pattern](./word-pattern.md)
+* [word-pattern](../Google/word-pattern.md)
+* [best-time-to-buy-and-sell-stock](../Adobe/best-time-to-buy-and-sell-stock.md)
 
 
 ## Medium

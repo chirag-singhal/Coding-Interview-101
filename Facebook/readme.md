@@ -12,6 +12,7 @@
 * [third-maximum-number](third-maximum-number.md)
 * [convert-a-number-to-hexadecimal](convert-a-number-to-hexadecimal.md)
 * [find-pivot-index](../Microsoft/find-pivot-index.md)
+* [best-time-to-buy-and-sell-stock](../Adobe/best-time-to-buy-and-sell-stock.md)
 
 
 ## Medium
