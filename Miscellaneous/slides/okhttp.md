@@ -147,6 +147,14 @@ InputStream inputStream = body.byteStream();
 FileOutputStream fos = new FileOutputStream("file.pdf");
 
 // Copy inputStream to outputStream
+
+ Path filePath = Paths.get(targetPath + File.separator + filename);
+
+OutputStream output = new FileOutputStream(filePath.toFile());
+InputStream stream = response.body().byteStream();
+stream.transferTo(output);
+output.close();
+stream.close();
 ```
 
 ---
